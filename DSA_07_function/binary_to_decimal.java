@@ -1,4 +1,4 @@
-package DSA_06_Pattern_1;
+package DSA_07_function;
 
 public class binary_to_decimal {
     public static void binarytodec(int binarynum){
